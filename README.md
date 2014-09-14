@@ -20,6 +20,7 @@ securitytools
 * 入侵检测系统分析系统Bro https://github.com/bro/bro
 * 基于主机的入侵检测系统OSSEC https://github.com/ossec/ossec-hids
 * Mac设备的入侵检测分析系统框架MIDAS https://github.com/etsy/MIDAS
+* 入侵检测系统OSSEC http://www.ossec.net/
 
 ###恶意代码分析
 * 自动化动态恶意软件分析系统Cuckoo Sandbox https://github.com/cuckoobox/cuckoo
