@@ -14,6 +14,7 @@ securitytools
 ##抓包工具
 * IPv4数据包捕捉、索引与数据库系统Moloch https://github.com/aol/moloch
 * livepool https://github.com/rehorn/livepool
+* 针对网络包和流的大数据分析框架OpenSOC 
 
 ###入侵检测
 * 入侵检测系统分析系统Bro https://github.com/bro/bro
