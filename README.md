@@ -39,3 +39,6 @@ securitytools
 ###工具汇集站
 * 腾讯安全应急中心 http://security.tencent.com/index.php/opensource/all
 
+###加解密
+* CipherShed  https://github.com/CipherShed/CipherShed  https://ciphershed.org/
+
