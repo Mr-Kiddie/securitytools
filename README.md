@@ -11,6 +11,7 @@ securitytools
 ###漏洞扫描
 * Ruby on Rails应用程序的漏洞扫描工具Brakeman https://github.com/presidentbeef/brakeman
 * XSS漏洞检测爬虫 https://github.com/DanMcInerney/xsscrapy
+* rootkit检测工具chkrootkit http://www.chkrootkit.org/
 
 ##抓包工具
 * IPv4数据包捕捉、索引与数据库系统Moloch https://github.com/aol/moloch
