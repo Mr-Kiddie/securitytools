@@ -7,6 +7,7 @@ securitytools
 ###渗透测试
 * 常用的渗透测试工具型网站 http://www.freebuf.com/tools/42919.html
 * 渗透测试的漏洞开发与交付系统Metasploit框架 https://github.com/rapid7/metasploit-framework
+* 自动化渗透测试工具heybe https://github.com/heybe
 
 ###漏洞扫描
 * Ruby on Rails应用程序的漏洞扫描工具Brakeman https://github.com/presidentbeef/brakeman
